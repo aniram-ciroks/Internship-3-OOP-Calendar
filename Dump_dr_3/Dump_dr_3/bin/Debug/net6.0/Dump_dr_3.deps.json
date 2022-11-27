@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dump_dr_3/1.0.0": {
+        "runtime": {
+          "Dump_dr_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dump_dr_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\bin\Debug\net6.0\Dump_dr_3.exe
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\bin\Debug\net6.0\Dump_dr_3.deps.json
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\bin\Debug\net6.0\Dump_dr_3.runtimeconfig.json
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\bin\Debug\net6.0\Dump_dr_3.dll
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\bin\Debug\net6.0\Dump_dr_3.pdb
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.AssemblyInfo.cs
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.dll
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\refint\Dump_dr_3.dll
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.pdb
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\Dump_dr_3.genruntimeconfig.cache
+C:\Users\Marina\Documents\DUMP_DR_3\Internship-3-OOP-Calendar\Dump_dr_3\Dump_dr_3\obj\Debug\net6.0\ref\Dump_dr_3.dll
